@@ -1,0 +1,19 @@
+AWS Sin Mapa – Video 28: Modelo de responsabilidad compartida
+
+¿Quién es responsable de la seguridad?
+Cuando usamos AWS, hay algo muy importante que debemos entender:
+la seguridad no depende solamente de AWS.
+AWS tiene responsabilidades… pero nosotros, como clientes, también.
+A esto lo llamamos modelo de responsabilidad compartida.
+
+AWS: seguridad DE la nube.
+AWS es responsable de la seguridad DE la nube.
+AWS protege la infraestructura que hace funcionar sus servicios:
+los centros de datos, el hardware, los servidores físicos, las redes y la infraestructura global de AWS.
+En pocas palabras: AWS protege la infraestructura de la nube.
+
+Cliente: seguridad EN la nube.
+Nosotros somos responsables de la seguridad EN la nube.
+Por ejemplo: quién puede acceder a nuestros recursos, cómo configuramos los permisos, cómo protegemos nuestros datos…
+y, dependiendo del servicio que utilicemos, también tendremos otras responsabilidades de seguridad.
+Así que usar AWS no significa que AWS se encargue automáticamente de toda nuestra seguridad.

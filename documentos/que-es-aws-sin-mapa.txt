@@ -1,0 +1,45 @@
+¿Qué es AWS Sin Mapa? ☁️
+
+AWS Sin Mapa es un proyecto que nació de mis ganas de aprender, compartir y demostrar que nunca es tarde para comenzar de nuevo.
+
+Soy ingeniera de software, pero estuve varios años alejada del mundo tecnológico. Y cuando decidí regresar, me encontré con algo que seguramente muchas personas han sentido: un mundo lleno de conceptos nuevos, herramientas, servicios y palabras que parecían complicadísimas.
+
+Muchas veces no sabía por dónde empezar.
+
+Y así nació AWS Sin Mapa.
+
+Quería crear ese espacio que a mí me hubiera gustado encontrar cuando estaba comenzando. Un lugar donde pudiera aprender AWS desde cero, sin sentir que tenía que saber programar, tener experiencia o entender todos los términos técnicos.
+
+Porque algo que tengo muy claro es que nadie nace sabiendo.
+
+En AWS Sin Mapa explico los conceptos de computación en la nube de una manera sencilla, paso a paso y con ejemplos cotidianos. No doy por hecho que sabes algo, porque recuerdo perfectamente lo que se siente estar del otro lado, escuchando palabras que todos parecen entender menos tú.
+
+Y aunque soy yo quien aparece explicando en los videos, también sigo aprendiendo. No pretendo saberlo todo ni presentarme como una experta que tiene todas las respuestas.
+
+Al contrario, quiero que las personas vean que podemos aprender juntos.
+
+Con el tiempo, este proyecto empezó a convertirse en algo mucho más grande de lo que imaginaba. Llegaron los talleres, las comunidades tecnológicas, las oportunidades de compartir mi historia y, sobre todo, las personas que me escriben diciendo que finalmente entendieron un concepto que antes les parecía imposible.
+
+Y eso es lo que más me motiva.
+
+Porque para mí, AWS Sin Mapa no se trata únicamente de enseñar servicios de AWS.
+
+También se trata de animar a las personas a dar ese primer paso, especialmente a quienes sienten que ya es demasiado tarde, que no tienen suficiente experiencia o que la tecnología es demasiado complicada para ellos.
+
+Yo también he tenido miedo de empezar. También he dudado de mis conocimientos y me he preguntado si realmente podía volver a encontrar mi lugar en este mundo.
+
+Pero aprendí algo importante: no necesito saberlo todo para comenzar. Necesito tener las ganas de aprender y la valentía de intentarlo.
+
+Eso es lo que quiero transmitir con AWS Sin Mapa.
+
+Quiero que sea un espacio donde podamos preguntar sin vergüenza, equivocarnos sin miedo y avanzar a nuestro propio ritmo.
+
+Un lugar donde aprender tecnología se sienta posible, cercano y, por qué no, divertido.
+
+Porque no importa si estás comenzando tu carrera, si quieres cambiar de profesión, si llevas años sin estudiar o si simplemente tienes curiosidad por conocer AWS.
+
+Siempre hay un punto de partida.
+
+AWS Sin Mapa nació porque yo tampoco sabía por dónde empezar. Y hoy quiero ayudar a que otras personas encuentren su propio camino.
+
+Porque para comenzar a aprender, no necesitas tener un mapa.

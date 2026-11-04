@@ -1,0 +1,17 @@
+AWS Sin Mapa – Video: ¿Qué es cloud computing?
+
+¿Cloud computing?
+Suena complicado, pero la idea es súper simple.
+Antes, si una empresa quería tener una página web, una app o guardar información, tenía que comprar servidores físicos.
+O sea: comprar máquinas, instalarlas, mantenerlas, pagar electricidad, seguridad, internet, técnicos… todo.
+Pero con cloud computing eso cambia.
+Ahora puedes alquilar esa tecnología por internet.
+Por ejemplo, necesitas un servidor, una base de datos o espacio para guardar archivos… no tienes que comprar nada físico.
+Lo pides en la nube, lo usas y pagas solo por lo que consumes.
+Es como cuando no compras una película en DVD, sino que usas Netflix.
+No tienes la película en tu casa, pero la puedes ver cuando la necesitas.
+Con la nube pasa algo parecido: no tienes el servidor físicamente, pero puedes usarlo por internet.
+Entonces, cloud computing es eso:
+alquilar tecnología en vez de comprarla.
+Usas lo que necesitas, cuando lo necesitas, y si tu proyecto crece, también puedes crecer sin comprar más máquinas.
+Y así, poco a poco, AWS empieza a tener más sentido.

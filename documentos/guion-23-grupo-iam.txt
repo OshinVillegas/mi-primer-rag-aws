@@ -1,0 +1,18 @@
+AWS Sin Mapa – Video 23: ¿Qué es un grupo IAM?
+
+Por ejemplo:
+Imagina que María, Pedro y Ana son desarrolladores.
+En lugar de darle los mismos permisos a cada uno por separado…
+creamos un grupo llamado Desarrolladores.
+María entra al grupo.
+Pedro también.
+Y Ana también.
+Después asignamos los permisos al grupo…
+y los usuarios que pertenecen a ese grupo reciben esos permisos.
+¿Y si mañana llega Juan?
+Lo agregamos al grupo…
+y listo.
+
+Así que recuerda:
+Usuario IAM = una identidad.
+Grupo IAM = varios usuarios que podemos administrar juntos.
