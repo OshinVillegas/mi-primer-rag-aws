@@ -3,6 +3,8 @@
 > Le enseñé a la IA quién soy: un chat que responde con **mis propios guiones** usando Amazon Bedrock.
 > Hecho desde cero, por alguien que recién está aprendiendo. Si yo pude, tú también. 💪
 
+📝 **Lee el artículo completo:** [Le enseñé a la IA quién soy: mi primer RAG en AWS](https://builder.aws.com/content/3Lh9EVABFK5bUf2ZiSVuwaAtBEC/le-ensene-a-la-ia-quien-soy-mi-primer-rag-en-aws) en AWS Builder Center.
+
 ## 🤔 ¿Qué problema resuelve?
 
 Le pregunté a un modelo de IA: *"¿Qué es AWS Sin Mapa?"*. No sabía. Intentó adivinar.
