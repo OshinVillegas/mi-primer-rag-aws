@@ -21,8 +21,8 @@ Un **RAG** soluciona eso: antes de responder, el modelo **busca en tus documento
 ## 🧠 ¿Qué es RAG? (explicado fácil)
 
 - **R – Retrieval (Buscar):** busca en tus documentos los pedazos que hablan del tema.
-- **A – Augmented (Aumentar):** junta tu pregunta con esos pedazos. Es como darle un machete al modelo antes del examen.
-- **G – Generation (Generar):** el modelo lee el machete y escribe la respuesta.
+- **A – Augmented (Aumentar):** junta tu pregunta con esos pedazos. Es como un examen a libro abierto: el modelo puede revisar tus apuntes antes de responder.
+- **G – Generation (Generar):** el modelo lee esos apuntes y escribe la respuesta.
 
 ## 🏗️ Arquitectura
 
